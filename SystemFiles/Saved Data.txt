@@ -1,0 +1,6 @@
+
+Username: HP Laptop
+MouseLock: false
+Address: Ditto22222@gmail.com
+Password: DoppleGanger
+ID: quantumLeap

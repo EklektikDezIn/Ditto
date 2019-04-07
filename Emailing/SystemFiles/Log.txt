@@ -1,0 +1,152 @@
+
+
+Error:Send To#
+java.util.InputMismatchException
+	at java.util.Scanner.throwFor(Scanner.java:840)
+	at java.util.Scanner.next(Scanner.java:1461)
+	at java.util.Scanner.nextInt(Scanner.java:2091)
+	at java.util.Scanner.nextInt(Scanner.java:2050)
+	at Ditto.Ditto.Target(Ditto.java:216)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:230)
+	at Ditto.Ditto.Prompt(Ditto.java:88)
+	at Ditto.Ditto.Ditto(Ditto.java:78)
+	at Ditto.Ditto.main(Ditto.java:68)
+
+
+Error:Send To#
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1937)
+	at Ditto.Ditto.Target(Ditto.java:219)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:238)
+	at Ditto.Ditto.Prompt(Ditto.java:88)
+	at Ditto.Ditto.Ditto(Ditto.java:78)
+	at Ditto.Ditto.main(Ditto.java:68)
+
+
+Error:Send To#
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1937)
+	at Ditto.Ditto.Target(Ditto.java:219)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:238)
+	at Ditto.Ditto.Prompt(Ditto.java:88)
+	at Ditto.Ditto.Ditto(Ditto.java:78)
+	at Ditto.Ditto.main(Ditto.java:68)
+
+
+Error:Send To#
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1937)
+	at Ditto.Ditto.Target(Ditto.java:219)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:238)
+	at Ditto.Ditto.Prompt(Ditto.java:88)
+	at Ditto.Ditto.Ditto(Ditto.java:78)
+	at Ditto.Ditto.main(Ditto.java:68)
+
+
+Error:Send To#
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.ArrayList.get(ArrayList.java:324)
+	at Ditto.Ditto.Target(Ditto.java:225)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:242)
+	at Ditto.Ditto.Prompt(Ditto.java:88)
+	at Ditto.Ditto.Ditto(Ditto.java:78)
+	at Ditto.Ditto.main(Ditto.java:68)
+
+
+Error:Send To#
+java.lang.NullPointerException
+	at Ditto.Ditto.Emailer(Ditto.java:189)
+	at Ditto.Ditto.Target(Ditto.java:231)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:244)
+	at Ditto.Ditto.Prompt(Ditto.java:88)
+	at Ditto.Ditto.Ditto(Ditto.java:78)
+	at Ditto.Ditto.main(Ditto.java:68)
+
+
+Error:Send To#
+java.lang.NullPointerException
+	at Ditto.Ditto.Emailer(Ditto.java:188)
+	at Ditto.Ditto.Target(Ditto.java:231)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:244)
+	at Ditto.Ditto.Prompt(Ditto.java:88)
+	at Ditto.Ditto.Ditto(Ditto.java:78)
+	at Ditto.Ditto.main(Ditto.java:68)
+
+
+Error:Send To#
+java.lang.NullPointerException
+	at javax.mail.internet.InternetAddress.parse(InternetAddress.java:673)
+	at javax.mail.internet.InternetAddress.parse(InternetAddress.java:633)
+	at javax.mail.internet.InternetAddress.parse(InternetAddress.java:610)
+	at Ditto.Email.sendEmails(Email.java:77)
+	at Ditto.Ditto.Emailer(Ditto.java:188)
+	at Ditto.Ditto.Target(Ditto.java:231)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:244)
+	at Ditto.Ditto.Prompt(Ditto.java:88)
+	at Ditto.Ditto.Ditto(Ditto.java:78)
+	at Ditto.Ditto.main(Ditto.java:68)
+
+
+Error:Send To#
+java.lang.NullPointerException
+	at javax.mail.internet.InternetAddress.parse(InternetAddress.java:673)
+	at javax.mail.internet.InternetAddress.parse(InternetAddress.java:633)
+	at javax.mail.internet.InternetAddress.parse(InternetAddress.java:610)
+	at Ditto.Email.sendEmails(Email.java:77)
+	at Ditto.Ditto.Emailer(Ditto.java:187)
+	at Ditto.Ditto.Target(Ditto.java:230)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:243)
+	at Ditto.Ditto.Prompt(Ditto.java:87)
+	at Ditto.Ditto.Ditto(Ditto.java:77)
+	at Ditto.Ditto.main(Ditto.java:67)
+
+
+Error:Send To#
+java.lang.NullPointerException
+	at javax.mail.internet.InternetAddress.parse(InternetAddress.java:673)
+	at javax.mail.internet.InternetAddress.parse(InternetAddress.java:633)
+	at javax.mail.internet.InternetAddress.parse(InternetAddress.java:610)
+	at Ditto.Email.sendEmails(Email.java:77)
+	at Ditto.Ditto.Emailer(Ditto.java:187)
+	at Ditto.Ditto.Target(Ditto.java:230)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:243)
+	at Ditto.Ditto.Prompt(Ditto.java:87)
+	at Ditto.Ditto.Ditto(Ditto.java:77)
+	at Ditto.Ditto.main(Ditto.java:67)
+
+
+Error:Send To#
+java.lang.RuntimeException: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 pu8sm14968490bkb.9 - gsmtp
+
+	at Ditto.Email.sendEmails(Email.java:82)
+	at Ditto.Ditto.Emailer(Ditto.java:186)
+	at Ditto.Ditto.Target(Ditto.java:229)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:242)
+	at Ditto.Ditto.Prompt(Ditto.java:87)
+	at Ditto.Ditto.Ditto(Ditto.java:77)
+	at Ditto.Ditto.main(Ditto.java:67)
+Caused by: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8 http://support.google.com/mail/bin/answer.py?answer=14257 pu8sm14968490bkb.9 - gsmtp
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:826)
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:761)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:685)
+	at javax.mail.Service.connect(Service.java:317)
+	at javax.mail.Service.connect(Service.java:176)
+	at javax.mail.Service.connect(Service.java:125)
+	at javax.mail.Transport.send0(Transport.java:194)
+	at javax.mail.Transport.send(Transport.java:124)
+	at Ditto.Email.sendEmails(Email.java:79)
+	... 6 more
+
+
+Error:Send To#
+java.lang.IndexOutOfBoundsException: Index: 23, Size: 2
+	at java.util.ArrayList.RangeCheck(ArrayList.java:547)
+	at java.util.ArrayList.get(ArrayList.java:322)
+	at Ditto.Ditto.Target(Ditto.java:226)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:248)
+	at Ditto.Ditto.Prompt(Ditto.java:88)
+	at Ditto.Ditto.Ditto(Ditto.java:78)
+	at Ditto.Ditto.main(Ditto.java:68)

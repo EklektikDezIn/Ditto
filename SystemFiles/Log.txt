@@ -1,0 +1,86 @@
+
+
+Error:
+java.lang.NullPointerException
+	
+at Ditto.Convert.toBoolean(Convert.java:124)
+	
+at Ditto.Ditto.CommandProcessor(Ditto.java:389)
+	
+at Ditto.Ditto.Prompt(Ditto.java:97)
+	
+at Ditto.Ditto.Ditto(Ditto.java:88)
+	
+at Ditto.Ditto.main(Ditto.java:78)
+
+
+Error:
+java.util.NoSuchElementException: No line found
+	at java.util.Scanner.nextLine(Scanner.java:1516)
+	
+at Ditto.Ditto.Prompt(Ditto.java:96)
+	
+at Ditto.Ditto.Ditto(Ditto.java:88)
+	
+at Ditto.Ditto.main(Ditto.java:78)
+
+
+
+
+Error:
+java.util.NoSuchElementException: No line found
+	at java.util.Scanner.nextLine(Scanner.java:1516)
+	
+at Ditto.Ditto.Prompt(Ditto.java:96)
+	
+at Ditto.Ditto.Ditto(Ditto.java:88)
+	
+at Ditto.Ditto.main(Ditto.java:78)
+
+
+
+
+Error:CBT#asdf#
+java.lang.NullPointerException
+	
+at Ditto.Convert.toBoolean(Convert.java:124)
+	
+at Ditto.Ditto.CommandProcessor(Ditto.java:390)
+	
+at Ditto.Ditto.Prompt(Ditto.java:98)
+	
+at Ditto.Ditto.Ditto(Ditto.java:88)
+	
+at Ditto.Ditto.main(Ditto.java:78)
+
+
+
+
+Error:Define#zet#
+java.lang.ArrayIndexOutOfBoundsException: -1
+	
+at java.util.ArrayList.remove(ArrayList.java:390)
+	
+at Ditto.Convert.removeLast(Convert.java:304)
+	
+at Ditto.Dictionary.defineWord(Dictionary.java:31)
+	
+at Ditto.Ditto.CommandProcessor(Ditto.java:548)
+	
+at Ditto.Ditto.Prompt(Ditto.java:98)
+	
+at Ditto.Ditto.Ditto(Ditto.java:88)
+	
+at Ditto.Ditto.main(Ditto.java:78)
+
+
+Error:Calculate#((((4-3(x+h))/(2+(x+h))-((4-3(x))/(2+(x)))/h)#
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.charAt(String.java:686)
+	at Ditto.MathWorks.addOne(MathWorks.java:713)
+	at Ditto.MathWorks.toForm(MathWorks.java:37)
+	at Ditto.MathWorks.SolveEq(MathWorks.java:64)
+	at Ditto.Ditto.CommandProcessor(Ditto.java:551)
+	at Ditto.Ditto.Prompt(Ditto.java:99)
+	at Ditto.Ditto.Ditto(Ditto.java:89)
+	at Ditto.Ditto.main(Ditto.java:79)
